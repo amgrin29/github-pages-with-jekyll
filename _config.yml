@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 twitter_username: your-twitter-handle
-github_username:  @amgrin29
+github_username:  amgrin29
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
